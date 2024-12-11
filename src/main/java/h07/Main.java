@@ -1,10 +1,11 @@
 package h07;
 
-import h07.Peano.NaturalNumber;
-import h07.Peano.Successor;
-import h07.Peano.Zero;
 import org.tudalgo.algoutils.student.annotation.DoNotTouch;
 import org.tudalgo.algoutils.student.annotation.StudentImplementationRequired;
+
+import h07.peano.NaturalNumber;
+import h07.peano.Successor;
+import h07.peano.Zero;
 
 import static org.tudalgo.algoutils.student.Student.crash;
 
