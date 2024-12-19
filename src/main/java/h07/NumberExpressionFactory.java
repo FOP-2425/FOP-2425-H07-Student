@@ -24,7 +24,7 @@ public class NumberExpressionFactory {
 //    }
 
 
-    // TODO: H1.2 - uncomment for testing
+    // TODO: H2.2 - uncomment for testing
     /**
      * Calculates the product of all possible pairs of numbers in the given range.
      *
@@ -60,6 +60,6 @@ public class NumberExpressionFactory {
      */
 //    @StudentImplementationRequired
 //    public static NumberExpression[] filter(NumberExpression[] numbers, IntPredicate predicate) {
-//        return crash(); // TODO: H4.3 - remove if implemented
+//        return crash(); // TODO: H4.4 - remove if implemented
 //    }
 }

@@ -17,7 +17,7 @@ public class PeanoNumberExpressionFactory {
      */
 //    @StudentImplementationRequired
 //    public static PeanoNumberExpression[] fromNumberExpressions(NumberExpression[] numberExpressions) {
-//        return crash(); // TODO: H4.2 - remove if implemented
+//        return crash(); // TODO: H4.3 - remove if implemented
 //    }
 
     /**
@@ -30,6 +30,6 @@ public class PeanoNumberExpressionFactory {
      */
 //    @StudentImplementationRequired
 //    public static PeanoNumberExpression fold(PeanoNumberExpression[] peanoNumberExpressions, PeanoNumberExpression initial, PeanoArithmeticExpression operation) {
-//        return crash(); // TODO: H4.4 - remove if implemented
+//        return crash(); // TODO: H4.5 - remove if implemented
 //    }
 }
